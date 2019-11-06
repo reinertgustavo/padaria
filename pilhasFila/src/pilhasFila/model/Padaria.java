@@ -30,7 +30,6 @@ public class Padaria {
 				break;
 				
 			case 1: // Entrar na fila
-				
 				novo = new Elemento();
 				novo.numero = senha;
 				if (inicio == null) {
